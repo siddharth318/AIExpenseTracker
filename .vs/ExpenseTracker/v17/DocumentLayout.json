@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.application\\dtos\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|solutionrelative:expensetracker.application\\dtos\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|solutionrelative:expensetracker.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.application\\interfaces\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|solutionrelative:expensetracker.application\\interfaces\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|solutionrelative:expensetracker.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|solutionrelative:expensetracker.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|solutionrelative:expensetracker.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.domain\\enums\\paymentmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B282630E-6CEE-45B4-922E-3C7C6F5D20B5}|ExpenseTracker.Domain\\ExpenseTracker.Domain.csproj|solutionrelative:expensetracker.domain\\enums\\paymentmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A1774-8D8C-43D4-8983-71F01A610AA2}|ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6A1774-8D8C-43D4-8983-71F01A610AA2}|ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj|solutionrelative:expensetracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A1774-8D8C-43D4-8983-71F01A610AA2}|ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.infrastructure\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6A1774-8D8C-43D4-8983-71F01A610AA2}|ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj|solutionrelative:expensetracker.infrastructure\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6A1774-8D8C-43D4-8983-71F01A610AA2}|ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6A1774-8D8C-43D4-8983-71F01A610AA2}|ExpenseTracker.Infrastructure\\ExpenseTracker.Infrastructure.csproj|solutionrelative:expensetracker.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.application\\validators\\createexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|solutionrelative:expensetracker.application\\validators\\createexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|c:\\users\\dwivesi\\source\\dotnet-side-project\\expensetracker\\expensetracker.application\\viewmodels\\createexpensevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2532BA1-D0D7-4BB8-90FD-29F51E8A2FFF}|ExpenseTracker.Application\\ExpenseTracker.Application.csproj|solutionrelative:expensetracker.application\\viewmodels\\createexpensevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExpenseTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:58:05.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Domain\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Entities\\Expense.cs",
+              "RelativeToolTip": "ExpenseTracker.Domain\\Entities\\Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:45:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMode.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Enums\\PaymentMode.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Domain\\Enums\\PaymentMode.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Enums\\PaymentMode.cs",
+              "RelativeToolTip": "ExpenseTracker.Domain\\Enums\\PaymentMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:46:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Domain\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ExpenseTracker.Domain\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:46:30.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ExpenseTracker.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:45:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\Interfaces\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Application\\Interfaces\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\Interfaces\\IExpenseService.cs",
+              "RelativeToolTip": "ExpenseTracker.Application\\Interfaces\\IExpenseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:47:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ExpenseTracker.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:47:37.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseDto.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\DTOs\\ExpenseDto.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Application\\DTOs\\ExpenseDto.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\DTOs\\ExpenseDto.cs",
+              "RelativeToolTip": "ExpenseTracker.Application\\DTOs\\ExpenseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:48:40.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Infrastructure\\Services\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Infrastructure\\Services\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Infrastructure\\Services\\ExpenseService.cs",
+              "RelativeToolTip": "ExpenseTracker.Infrastructure\\Services\\ExpenseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:58:38.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ExpenseTracker.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:58:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateExpenseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\Validators\\CreateExpenseValidator.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Application\\Validators\\CreateExpenseValidator.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\Validators\\CreateExpenseValidator.cs",
+              "RelativeToolTip": "ExpenseTracker.Application\\Validators\\CreateExpenseValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:49:35.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateExpensevm.cs",
+              "DocumentMoniker": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\ViewModels\\CreateExpensevm.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Application\\ViewModels\\CreateExpensevm.cs",
+              "ToolTip": "C:\\Users\\dwivesi\\source\\dotnet-side-project\\ExpenseTracker\\ExpenseTracker.Application\\ViewModels\\CreateExpensevm.cs",
+              "RelativeToolTip": "ExpenseTracker.Application\\ViewModels\\CreateExpensevm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:49:12.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
