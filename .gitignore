@@ -1,0 +1,65 @@
+
+############################
+# Build / Publish Artifacts
+############################
+bin/
+obj/
+out/
+publish/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.tmp
+
+############################
+# User-Specific Files
+############################
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+############################
+# Visual Studio / VSCode
+############################
+.vs/
+.vscode/
+*.code-workspace
+
+############################
+# NuGet
+############################
+*.nupkg
+packages/
+.nuget/
+.project.json.lock
+*.snupkg
+
+############################
+# Generated Files
+############################
+Generated\ Files/
+*.g.cs
+*.g.i.cs
+
+############################
+# Resharper / Rider
+############################
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+############################
+# Azure / Cloud
+############################
+.localhistory/
+*.publishsettings
+
+############################
+# Logs
+############################
+*.log
+Logs/
+log/
