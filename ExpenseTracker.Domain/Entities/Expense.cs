@@ -16,6 +16,7 @@ namespace ExpenseTracker.Domain.Entities
         public Guid CategoryId { get; set; }     // FK
         public Category? Category { get; set; }  // Navigation property
 
+        public Guid CreatedBy { get; set; }         // FK
         public PaymentMode PaymentMode { get; set; }
         public string? Description { get; set; }
     }
